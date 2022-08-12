@@ -1,0 +1,64 @@
+body{
+background-image: url(/images\ \(1\).jpg);
+background-repeat: no-repeat;
+background-size: 100%;
+font-family: 'Tiro Gurmukhi', serif;
+
+}
+.heading{
+text-align: center;
+color:rgb(114, 18, 240)
+}
+.list-item label{
+text-align: center;
+color: hsla(0, 0%, 100%, 0.979);
+}
+
+.list-item input{
+margin-left: 5px;
+
+}
+
+.box{
+text-align: center;
+
+}
+.list-item{
+    text-align: center;
+}
+.button{
+    
+border: none;
+padding: 5px px;
+border-radius: 3px;
+background-color: rgb(247, 11, 11);
+color: white;
+cursor: pointer;
+transition: 2s all;
+}
+.button:hover{
+
+background-color: green;
+
+}
+.submit{
+    
+width: 400px;
+height: 30px;
+background-color: green;
+}
+
+.list-item{
+    padding-top: 20px;
+width: 350px;
+height: 330px;
+margin: 70px;
+background-color: rgb(112, 112, 112);
+text-align: center;
+
+}
+
+
+.title{
+margin-right: 50px;
+}
